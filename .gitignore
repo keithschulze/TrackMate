@@ -11,3 +11,7 @@
 
 ## Interactive tests ##
 /samples/
+
+## IntelliJ ##
+*.iml
+.idea/*
